@@ -11,6 +11,7 @@ console.log('--------------------\n');
 let grades = [1.3, 2.3, 3.7];
 let id = 77642;
 let currentSem = 4;
+const depressed = true;
 
 let student = {
     grades,
